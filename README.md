@@ -78,5 +78,5 @@ print("Mean Squared Error:", mse)
 
 ```
 
-#License
+# License
 This project is licensed under the MIT License.
