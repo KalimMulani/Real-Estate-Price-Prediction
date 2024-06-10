@@ -28,13 +28,7 @@ The dataset used in this project is fetched from the internet and contains infor
     ```bash
     git clone https://github.com/KalimMulani/Real-Estate-Price-Prediction.git
     ```
-
-2. Install the required libraries:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    
 ## Usage
 
 1. **Data Preparation**:
