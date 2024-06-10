@@ -26,7 +26,7 @@ The dataset used in this project is fetched from the internet and contains infor
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/real-estate-price-prediction.git
+    git clone https://github.com/KalimMulani/Real-Estate-Price-Prediction.git
     ```
 
 2. Install the required libraries:
